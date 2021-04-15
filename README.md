@@ -11,11 +11,8 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/TheIOFoundation/TIOF/wiki/Code-of-Conduct)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/TheIOFoundation/UDDR/blob/master/LICENSE)
 
-**The Universal Declaration of Digital Rights** (an initiative from [The IO Foundation](https://TheIOFoundation.org)) is a civic tech, interactive platform providing an overview of the state of Human and Digital Rights around the globe. It evaluates policies obtained from high quality sources that may impact their observance. It provides, among other tools, a layered map interface that allows for a visual representation of the policies adopted, assisting a broad range of stakeholders in understanding the global state of their Rights. This empowers them to become active agents of global change.
+**The Universal Declaration of Digital Rights** is an initiative from [The IO Foundation](https://TheIOFoundation.org)
 
-The project is the result of the collaborative effort from a global network of partners and volunteers who are dedicating their time and resources to ensure that we do not degrade the Rights we currently enjoy while simultaneously preparing them to become a new generation of Rights defenders.
-
-The objective is to provide an overview of the state of the world to citizens and assist journalists and Human Rights defenders in their reporting and overseeing tasks.
 
 https://TheIOFoundation.org/UDDR
 
