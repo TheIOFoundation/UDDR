@@ -2,7 +2,7 @@
 
 ## About
 
-* [Page 1](README.md)
+* [Introduction](README.md)
 * [Get involved](about/get-involved.md)
 
 ***
