@@ -3,7 +3,9 @@
 ## About
 
 * [Introduction](README.md)
+* [Status](about/status.md)
 * [Get involved](about/get-involved.md)
+* [Donate](about/donate.md)
 
 ## Components
 
