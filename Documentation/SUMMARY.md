@@ -13,3 +13,8 @@
 * [Technical Document](components/technical-document.md)
 * [DR SDK](components/dr-sdk.md)
 * [DRIA Global Registry](components/dria-global-registry.md)
+
+## Network
+
+* [Global](network/global.md)
+* [National](network/national.md)
