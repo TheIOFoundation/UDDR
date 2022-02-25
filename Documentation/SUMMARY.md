@@ -7,18 +7,17 @@
 * [Get involved](about/get-involved.md)
 * [Donate](about/donate.md)
 
-## Components
+## Research
 
-* [Legal Document](components/legal-document.md)
-* [Technical Document](components/technical-document.md)
-* [DR SDK](components/dr-sdk.md)
-* [DRIA Global Registry](components/dria-global-registry.md)
+* [Terminology](research/terminology.md)
+* [Legal Document](research/legal-document.md)
+* [Technical Document](research/technical-document.md)
+* [DR SDK](research/dr-sdk.md)
+* [DRIA Global Registry](research/dria-global-registry.md)
+
+## Components
 
 ## Network
 
 * [Global](network/global.md)
 * [National](network/national.md)
-
-## Research
-
-* [Terminology](research/terminology.md)
