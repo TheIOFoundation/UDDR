@@ -1,7 +1,7 @@
 # 🚧 Join us
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/UDDRJoinUs) **| Playbook | Assistant**
 {% endhint %}
 
 
