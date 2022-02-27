@@ -22,8 +22,6 @@
 * [DR SDK](research/dr-sdk.md)
 * [DRIA Global Registry](research/dria-global-registry.md)
 
-## Components
-
 ## Network
 
 * [Global](network/global.md)
