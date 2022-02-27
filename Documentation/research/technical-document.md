@@ -1,4 +1,4 @@
-# 🚧 Technical Document
+# Technical Document
 
 
 

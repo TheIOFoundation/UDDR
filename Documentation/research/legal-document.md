@@ -1,4 +1,4 @@
-# 🚧 Legal Document
+# Legal Document
 
 
 

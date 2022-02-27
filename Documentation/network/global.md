@@ -1,4 +1,4 @@
-# 🚧 Global
+# Global
 
 
 
