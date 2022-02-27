@@ -17,12 +17,12 @@
 
 ## Research
 
-* [Legal Document](research/legal-document.md)
-* [Technical Document](research/technical-document.md)
-* [DR SDK](research/dr-sdk.md)
-* [DRIA Global Registry](research/dria-global-registry.md)
+* [🚧 Legal Document](research/legal-document.md)
+* [🚧 Technical Document](research/technical-document.md)
+* [🚧 DR SDK](research/dr-sdk.md)
+* [🚧 DRIA Global Registry](research/dria-global-registry.md)
 
 ## Network
 
-* [Global](network/global.md)
+* [🚧 Global](network/global.md)
 * [National](network/national.md)
