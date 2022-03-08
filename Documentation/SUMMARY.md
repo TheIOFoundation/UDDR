@@ -22,7 +22,17 @@
 * [🚧 DR SDK](research/dr-sdk.md)
 * [🚧 DRIA Global Registry](research/dria-global-registry.md)
 
+## Strategy
+
+* [🚧 Page 2](strategy/page-2.md)
+* [🚧 Page 1](strategy/page-1.md)
+
 ## Network
 
 * [🚧 Global](network/global.md)
 * [🚧 National](network/national.md)
+
+## Operations
+
+* [🚧 Handbooks](operations/handbooks/README.md)
+  * [🚧 Tasks](operations/handbooks/tasks.md)
