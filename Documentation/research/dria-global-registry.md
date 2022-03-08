@@ -17,7 +17,12 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 
 
+## About
 
+A public global registry of Digital Rights impact from technology.
+
+[\
+](https://opencollective.com/uddr/projects/dria-global-registry#category-ABOUT)
 
 #### **Project Description**
 

@@ -17,7 +17,12 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 
 
+## About
 
+Crafting the Technical Document of the UDDR.
+
+[\
+](https://opencollective.com/uddr/projects/technical-document-t#category-ABOUT)
 
 
 

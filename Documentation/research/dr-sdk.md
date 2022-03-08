@@ -17,6 +17,15 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 
 
+## About
+
+Building the implementation of the Technical Document (T).
+
+[\
+](https://opencollective.com/uddr/projects/digital-rights-sdk#category-ABOUT)
+
+
+
 #### **Project Description**
 
 As part of the [Universal Declaration of Digital Rights](https://opencollective.com/uddr), the Digital Rights SDK (DR SDK) provides usable implementation of the Technical Document (T) that programmers can incorporate in their architecture to provide an abstraction layer that will transparently observe citizen's Digital Rights.\
