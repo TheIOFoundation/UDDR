@@ -4,12 +4,6 @@
 **ShortURL | Playbook | Assistant**
 {% endhint %}
 
-
-
-{% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFDocs) **| Playbook | Assistant**
-{% endhint %}
-
 {% hint style="warning" %}
 This website contains the **documentation** relative to the BHR in Tech (BiT) Initiative from [The IO Foundation](https://tiof.click/TIOFWeb).
 
