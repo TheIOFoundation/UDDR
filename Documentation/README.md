@@ -1,16 +1,16 @@
 # 🚧 Introduction
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/UDDRDocs) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
-This website contains the **documentation** relative to the BHR in Tech (BiT) Initiative from [The IO Foundation](https://tiof.click/TIOFWeb).
+This website contains the **documentation** relative to the Universal Declaration of Digital Rights (UDDR) Initiative from [The IO Foundation](https://tiof.click/TIOFWeb).
 
 You may be looking for:
 
-* [Official Website](https://tiof.click/BiTWeb)
-* [BHR in Tech Initiative Management](https://tiof.click/BiTRepo)
+* [Official Website](https://tiof.click/UDDRWeb)
+* [UDDR Initiative Management](https://tiof.click/UDDRRepo)
 
 To learn how to navigate this documentation, please check the [HELP](https://tiof.click/TIOFDocsHelp) section.
 {% endhint %}
