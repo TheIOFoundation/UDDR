@@ -34,7 +34,8 @@
 
 ## INSTITUTIONAL
 
-* [Structures](institutional/structures.md)
+* [Structures](institutional/structures/README.md)
+  * [Teams](institutional/structures/teams.md)
 
 ## Operations
 
