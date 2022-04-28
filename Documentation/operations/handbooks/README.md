@@ -1,12 +1,12 @@
 # Handbooks
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/UDDRHB) **| Playbook | Assistant**
 {% endhint %}
 
 ## About
 
-The following section contains the list of official operational handbooks (Standard Operational Procedures - SOPs) for the Project Lockdown initiative.
+The following section contains the list of official operational handbooks (Standard Operational Procedures - SOPs) for the Universal Declaration of Digital Rights initiative.
 
 {% hint style="warning" %}
 All SOPs need to comply with [TIOF's Policies](https://tiof.click/TIOFPolicies) at all times.
