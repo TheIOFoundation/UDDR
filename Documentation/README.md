@@ -31,6 +31,22 @@ TIOF aims to raise awareness of the importance of [Data-Centric Digital Rights](
 
 The IO Foundation advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy) through the implementation of a number of [initiatives](broken-reference).
 
+
+
+## Mission & Vision
+
+While the DCDR initiative is designed in order to support TIOF's [mission](https://tiof.click/TIOFMission) and to achieve its [vision](https://tiof.click/TIOFVision), it nonetheless also formulates its own Mission & Vision.
+
+### Mission
+
+> To provide technologist with a clear framework and taxonomies to embed Data-Centric Digital Rights into technology and enable their role as Next Generation of Rights Defenders.
+
+### Vision
+
+> A world where technology protects digital citizens and their digital twins transparently and by design.
+
+###
+
 ### Mission
 
 > To promote, protect and provide solutions for Data-Centric Digital Rights.
