@@ -32,6 +32,10 @@
 * [🚧 Global](network/global.md)
 * [🚧 National](network/national.md)
 
+## INSTITUTIONAL
+
+* [Structures](institutional/structures.md)
+
 ## Operations
 
 * [Handbooks](operations/handbooks/README.md)
