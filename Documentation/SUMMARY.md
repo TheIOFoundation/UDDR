@@ -25,8 +25,8 @@
 ## Strategy
 
 * [🚧 Governance](strategy/governance.md)
-* [🚧 Education](strategy/education.md)
-* [🚧 Migration](strategy/migration.md)
+* [🚧 Education](strategy/page-2.md)
+* [🚧 Migration](strategy/page-1.md)
 
 ## Network
 

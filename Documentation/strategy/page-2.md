@@ -1,4 +1,4 @@
-# 🚧 Governance
+# 🚧 Education
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
