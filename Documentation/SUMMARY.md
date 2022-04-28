@@ -36,5 +36,5 @@
 ## Operations
 
 * [Handbooks](operations/handbooks/README.md)
-  * [🚧 Tasks](operations/handbooks/tasks.md)
   * [🚧 Comms](operations/handbooks/comms.md)
+  * [🚧 Tasks](operations/handbooks/tasks.md)
