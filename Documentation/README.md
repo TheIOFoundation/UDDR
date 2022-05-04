@@ -33,59 +33,34 @@ As core stakeholders, technologists play a critical role as the [Next Generation
 
 ### Objectives
 
-The UDDR initiative aims at encourage a shift in the current technology paradigms by providing
+The UDDR initiative aims at encouraging a shift in the current technology paradigms by providing
 
-#### **Summary of Activities**
-
-* Establish working groups for
-  * Data lifecycle
-  * Digital Harms
-  * Digital Rights
-  * Data Processing Index
-  * Global DR compliance database
-* Create a roadmap for the above activities
-* Generate conversations on the different adoption strategies per stakeholder
-* Plan design, implementation, deployment and adoption phases
-* Plan international & national adoption and legislation strategies
-
-#### **Outcomes**
-
-* A Universal Declaration of Digital Rights comprising
-  * A Legal document (L)
-  * A Technical document (T)
-  * A Digital Rights SDK (DR SDK)
-* Enable the adoption of the UDDR by the industry
-
-
-
-
-
-
-
-* [DCDR Principles](https://tiof.click/DCDRPrinciples)
-* [Sagan Oath](https://tiof.click/DCDRSaganOath)
-* Generating the necessary body of work for
-  * A [DCDR framework](https://tiof.click/DCDRFramework)
-  * A set of taxonomies for
-    * [Digital Harms](https://tiof.click/DCDRDigitalHarms)
-    * [Digital Rights](https://tiof.click/DCDRDigitalRights)
-    * [Use Cases](https://tiof.click/DCDRUseCases)
+* a Universal Declaration of Digital Rights comprising
+  * a Legal document (L)
+  * a Technical document (T)
+  * a Data-Centric Digital Rights SDK (DCDR SDK)
+* a DCDR Processing Index
+* a Global DCDR compliance database
+* a strategy for international & national adoption and legislation strategies
+* conversations on the different adoption strategies per stakeholder
+* a strategy for the implementation, adoption, deployment and maintenance phases by the tech sector
+* a roadmap for the above activities
 
 ## Mission & Vision
 
-While the DCDR initiative is designed in order to support TIOF's [mission](https://tiof.click/TIOFMission) and to achieve its [vision](https://tiof.click/TIOFVision), it nonetheless also formulates its own Mission & Vision.
+While the UDDR initiative is designed in order to support TIOF's [mission](https://tiof.click/TIOFMission) and to achieve its [vision](https://tiof.click/TIOFVision), it nonetheless also formulates its own Mission & Vision.
 
 ### Mission
 
-> To provide technologist with a clear framework and taxonomies to embed Data-Centric Digital Rights into technology and enable their role as Next Generation of Rights Defenders.
+> To provide governments and the tech sector with the necessary tools to design, implement, legislate and govern digital spaces with a focus in the protection it its digital citizens by enabling technologists' role as Next Generation of Rights Defenders.
 
 ### Vision
 
-> A world where technology protects digital citizens and their digital twins transparently and by design.
+> A world where citizens can concentrate in being responsible digital citizens with the full certainty that their digital spaces are build around the principle of Rights by Design.
 
 ## Values
 
-The DCDR initiative adheres to the same [values](https://tiof.click/TIOFValues) as The IO Foundation to deliver its mission.
+The UDDR initiative adheres to the same [values](https://tiof.click/TIOFValues) as The IO Foundation to deliver its mission.
 
 ## Publications
 
