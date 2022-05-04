@@ -20,6 +20,7 @@
 * [🚧 Technical Document](research/technical-document.md)
 * [🚧 DR SDK](research/dr-sdk.md)
 * [🚧 DRIA Global Registry](research/dria-global-registry.md)
+* [Publications](research/publications.md)
 
 ## Strategy
 
