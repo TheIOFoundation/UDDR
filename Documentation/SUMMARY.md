@@ -11,7 +11,7 @@
   * [🚧 Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
 * [🖖 Join us](about/join-us.md)
 * [🚧 Support Us](about/support-us.md)
-* [🚧 Acknowledgments](about/acknowledgments.md)
+* [🚧 Awards](about/awards.md)
 * [🚧 Media Archive](about/media-archive.md)
 
 ## Research
