@@ -64,11 +64,11 @@ The UDDR initiative adheres to the same [values](https://tiof.click/TIOFValues) 
 
 ## Publications
 
-The IO Foundation regularly publishes articles, research papers and other documents such as comments on public consultations related to its advocacy. [Check out TIOF's publications](https://tiof.click/DCDRPublications).
+The UDDR initiative regularly publishes articles, research papers and other documents such as comments on related public consultations and technical standards. [Check out UDDR publications](https://tiof.click/UDDRPublications).
 
 ## Events
 
-The IO Foundation regularly organizes events and participates in international fora where the organization puts forward its advocacy and engages with all stakeholders. TIOF's handles all of its events through its [TechUp initiative](https://tiof.click/TUDocs). [Check out TIOF's events](https://tiof.click/DCDREvents).&#x20;
+The UDDR initiative regularly runs working groups, organizes events and participates in international fora where the organization puts forward the initiative with all stakeholders. TIOF's handles all of its events through its [TechUp initiative](https://tiof.click/TUDocs). [Check out UDDR events](https://tiof.click/UDDREvents).&#x20;
 
 ## Engaged Stakeholders
 
