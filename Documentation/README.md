@@ -21,39 +21,19 @@ Introduction to the UDDR initiative
 
 ## The Initiative
 
-A multi-stakeholder initiative promoted by The IO Foundation to obtain the proclamation of a Universal Declaration of Digital Rights.\
-\
-
+The UDDR initiative, is a multi-stakeholder initiative promoted by The IO Foundation to promote and achieve the proclamation of a Universal Declaration of Digital Rights.
 
 > _**Building trustworthy technology that protects your Digital Rights.**_
 
-\
 
-
-
-
-
-
-Data-Centric Digital Rights (DCDR), an initiative from [The IO Foundation](https://tiof.click/TIOFWeb), is the advocacy by which it aims at protecting citizens' Rights by transparently implementing in their daily technology the regulations that should protect them.
-
-TIOF views the technology as currently non-correlated with all working understandings and practices as to how any public-consumption industry functions traditionally where a clear separation is made between:
-
-* Experts, who understand the complexities to design and build products that are compliant with applicable legislation and
-* Citizens, who are solely tasked for being responsible users of the product
 
 {% hint style="info" %}
 As core stakeholders, technologists play a critical role as the [Next Generation of Rights Defenders](https://tiof.click/TIOFNextGen) and need to orient themselves through new design and implementation paradigms focused on protecting data. The [DCDR Principles](https://tiof.click/DCDRPrinciples) put forward by The IO Foundation are concepts that help them navigate the intricacies of applying Human and Digital Rights in digital infrastructures, products and services.
 {% endhint %}
 
-In essence, DCDR is a framework for technologists composed by Principles, Taxonomies and other technical tools. It enables them to develop a deeper understanding about the nature of data, the digital twins that emerge from it and make possible for them to embrace their role as [NextGen Rights Defenders](https://tiof.click/TIOFNextGen).
-
-{% hint style="success" %}
-By understanding that [_we are our data_](https://tiof.click/DCDRPrinciple1), technologists may architect Digital Spaces that aim at [_ending remedy_](https://tiof.click/DCDRPrinciple2) and build it so that they implement [_Rights by design_](https://tiof.click/DCDRPrinciple3).
-{% endhint %}
-
 ### Objectives
 
-
+The UDDR initiative aims at encourage a shift in the current technology paradigms by providing
 
 #### **Summary of Activities**
 
@@ -80,7 +60,7 @@ By understanding that [_we are our data_](https://tiof.click/DCDRPrinciple1), te
 
 
 
-The DCDR initiative aims at encourage a shift in the current technology paradigms by providing
+
 
 * [DCDR Principles](https://tiof.click/DCDRPrinciples)
 * [Sagan Oath](https://tiof.click/DCDRSaganOath)
