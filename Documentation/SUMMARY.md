@@ -2,7 +2,7 @@
 
 ## About
 
-* [🚧 Introduction](README.md)
+* [🌟 Introduction](README.md)
   * [🚧 Theory of Change](about/introduction/theory-of-change.md)
   * [🚧 Business Plan](about/introduction/business-plan.md)
   * [🚧 Implementation](about/introduction/implementation.md)

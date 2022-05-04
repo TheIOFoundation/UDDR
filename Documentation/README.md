@@ -1,4 +1,4 @@
-# 🚧 Introduction
+# 🌟 Introduction
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/UDDRDocs) **| Playbook | Assistant**
@@ -72,16 +72,16 @@ The UDDR initiative regularly runs working groups, organizes events and particip
 
 ## Engaged Stakeholders
 
-The advancement of [TIOF's DCDR advocacy](https://tiof.click/DCDRAdvocacy) is made possible with the collaboration of a number of partner and supporting organizations, funders and individual citizens.
+The advancement of [TIOF's DCDR advocacy](https://tiof.click/DCDRAdvocacy) and the UDDR initiative is made possible with the collaboration of a number of partner and supporting organizations, funders and individual citizens.
 
 {% hint style="success" %}
 You can support The IO Foundation by
 
 * [Donate to TIOF](https://tiof.click/SupportUs)
-* [Join our team](https://tiof.click/DCDRJoinUs)
-* Partner with us
+* [Join our team](https://tiof.click/UDDRJoinUs)
+* [Partner with us](https://tiof.click/UDDRPartnersSuggest)
 {% endhint %}
 
 {% hint style="info" %}
-Check our [Partners and Collaborators](https://tiof.click/TIOFPartners).
+Check our [Partners and Collaborators](https://tiof.click/UDDRPartners).
 {% endhint %}
