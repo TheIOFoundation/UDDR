@@ -12,7 +12,7 @@
 * [🖖 Join us](about/join-us.md)
 * [💰 Support Us](about/support-us.md)
 * [🏆 Awards](about/awards.md)
-* [🚧 Media Archive](about/media-archive.md)
+* [🗄 Media Archive](about/media-archive.md)
 
 ## Research
 
