@@ -25,6 +25,18 @@ This section describes the Theory of Change that guides The IO Foundation and it
 
 The IO Foundation has observed the following problems:
 
+The long time assentado methodology to introduce products to markets is not applied to public consumption software.
+
+Compliance cannot be verified
+
+Agencies do not have the tools
+
+Developers can't ensure compliance
+
+Citizens can't be certain that they are protected > Lack of trust
+
+Companies do not compete on a same plain field (cost)&#x20;
+
 
 
 ## The proposed solutions
