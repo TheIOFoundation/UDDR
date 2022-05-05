@@ -1,7 +1,3 @@
----
-description: Version 1.0 | This Business Plan was approved on DD MMMM YYYY.
----
-
 # 📊 Business Plan
 
 {% hint style="info" %}

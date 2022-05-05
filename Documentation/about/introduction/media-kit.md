@@ -1,5 +1,5 @@
 ---
-description: Version 1.0 | This Media Kit was approved on 01 February 2019.
+description: Version 1.0 | This Media Kit was approved on DD MMMM YYYY.
 ---
 
 # 🎨 Media Kit
