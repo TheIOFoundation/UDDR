@@ -1,7 +1,7 @@
 # 🗃 Terminology
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/UDDRTerminology) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
