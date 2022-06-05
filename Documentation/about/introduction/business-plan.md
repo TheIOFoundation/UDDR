@@ -1,3 +1,7 @@
+---
+description: Version 1.0 | This Business Plan was approved on DD MMMM YYYY.
+---
+
 # 📊 Business Plan
 
 {% hint style="info" %}
@@ -23,3 +27,8 @@ This business plan is fully compliant with [The IO Foundation's policies](https:
 
 ## Budgeting
 
+\[Work in Progress]
+
+{% hint style="info" %}
+This budgeting plan is fully compliant with [The IO Foundation's policies](https://tiof.click/TIOFPolicies).
+{% endhint %}
