@@ -20,7 +20,7 @@
 * [🚧 Technical Document](research/technical-document.md)
 * [🚧 DR SDK](research/dr-sdk.md)
 * [🚧 DRIA Global Registry](research/dria-global-registry.md)
-* [Publications](research/publications.md)
+* [🚧 Publications](research/publications.md)
 
 ## Strategy
 
@@ -35,13 +35,13 @@
 
 ## INSTITUTIONAL
 
-* [Structures](institutional/structures/README.md)
+* [🚧 Structures](institutional/structures/README.md)
   * [🚧 Board of Consultants](institutional/structures/board-of-consultants.md)
   * [🚧 Teams](institutional/structures/teams.md)
 * [🚧 Partners and Collaborators](institutional/partners-and-collaborators.md)
 
 ## Operations
 
-* [Handbooks](operations/handbooks/README.md)
+* [🚧 Handbooks](operations/handbooks/README.md)
   * [🚧 Comms](operations/handbooks/comms.md)
   * [🚧 Tasks](operations/handbooks/tasks.md)
