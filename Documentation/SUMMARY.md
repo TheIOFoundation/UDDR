@@ -43,5 +43,6 @@
 ## Operations
 
 * [🚧 Handbooks](operations/handbooks/README.md)
-  * [🚧 Comms](operations/handbooks/comms.md)
+  * [🚧 Comms](operations/handbooks/comms/README.md)
+    * [🚧 Email Campaign](operations/handbooks/comms/email-campaign.md)
   * [🚧 Tasks](operations/handbooks/tasks.md)
