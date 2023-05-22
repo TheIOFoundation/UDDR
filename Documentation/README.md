@@ -1,7 +1,7 @@
 # 🌟 Introduction
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/UDDRDocs) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/UDDRDocs) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
@@ -21,9 +21,9 @@ Introduction to the UDDR initiative
 
 ## The Initiative
 
-The UDDR initiative, is a multi-stakeholder initiative promoted by The IO Foundation to promote and achieve the proclamation of a Universal Declaration of Digital Rights.
+The UDDR initiative is a multi-stakeholder initiative promoted by The IO Foundation to promote and achieve the proclamation of a Universal Declaration of Digital Rights.
 
-> _**Building trustworthy technology that protects your Digital Rights.**_
+> _**Building trustworthy technology that protects your Data-Centric Digital Rights.**_
 
 
 
