@@ -3,12 +3,12 @@
 ## About
 
 * [🌟 Introduction](README.md)
-  * [🔀 Theory of Change](about/introduction/theory-of-change.md)
-  * [📊 Business Plan](about/introduction/business-plan.md)
-  * [📈 Implementation](about/introduction/implementation.md)
-  * [🎨 Media Kit](about/introduction/media-kit.md)
-  * [🗃️ Terminology](about/introduction/terminology.md)
-  * [❓ Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
+* [🔀 Theory of Change](about/theory-of-change.md)
+* [📊 Business Plan](about/business-plan.md)
+* [📈 Implementation](about/implementation.md)
+* [🎨 Media Kit](about/media-kit.md)
+* [🗃️ Terminology](about/terminology.md)
+* [❓ Frequently Asked Questions](about/frequently-asked-questions.md)
 * [🖖 Join us](about/join-us.md)
 * [💰 Support Us](about/support-us.md)
 * [🏆 Awards](about/awards.md)

@@ -1,7 +1,7 @@
 # 💰 Support Us
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/SupportUs) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/SupportUs) **| Playbook | Assistant**
 {% endhint %}
 
 ![Support TIOF](../.gitbook/assets/image.png)
