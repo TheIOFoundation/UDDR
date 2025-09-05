@@ -1,8 +1,12 @@
 # Table of contents
 
+## NOTICE
+
+* [Site Under Maintenance](README.md)
+
 ## About
 
-* [🌟 Introduction](README.md)
+* [🌟 Introduction](<README (1).md>)
 * [🔀 Theory of Change](about/theory-of-change.md)
 * [📊 Business Plan](about/business-plan.md)
 * [📈 Implementation](about/implementation.md)
@@ -46,3 +50,7 @@
   * [🚧 Comms](operations/handbooks/comms/README.md)
     * [🚧 Email Campaign](operations/handbooks/comms/email-campaign.md)
   * [🚧 Tasks](operations/handbooks/tasks.md)
+
+## POLICY WORK
+
+* [Page 1](policy-work/page-1.md)

@@ -8,7 +8,7 @@
 
 The IO Foundation is always looking for talented individuals wishing to make an impact in technology and how it is implemented through its UDDR initiative.
 
-Do you share the UDDR's [Mission & Vision](../#mission-and-vision)?
+Do you share the UDDR's [Mission & Vision](<../README (1).md#mission-and-vision>)?
 
 Do you have a passion towards designing the Universal Declaration of Digital Rights?
 
