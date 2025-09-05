@@ -2,7 +2,7 @@
 
 ## NOTICE
 
-* [Site Under Maintenance](README.md)
+* [Section Under Maintenance](README.md)
 
 ## About
 
