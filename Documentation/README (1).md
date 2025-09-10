@@ -1,4 +1,8 @@
-# 🌟 Introduction
+---
+icon: star
+---
+
+# Introduction
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/UDDRDocs) **| Playbook | Assistant**
@@ -73,6 +77,8 @@ The UDDR initiative regularly runs working groups, organizes events and particip
 ## Engaged Stakeholders
 
 The advancement of [TIOF's DCDR advocacy](https://tiof.click/DCDRAdvocacy) and the UDDR initiative is made possible with the collaboration of a number of partner and supporting organizations, funders and individual citizens.
+
+
 
 {% hint style="success" %}
 You can support The IO Foundation by

@@ -1,4 +1,8 @@
-# ❓ Frequently Asked Questions
+---
+icon: message-question
+---
+
+# Frequently Asked Questions
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

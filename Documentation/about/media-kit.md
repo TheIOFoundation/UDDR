@@ -1,8 +1,9 @@
 ---
 description: Version 1.0 | This Media Kit was approved on DD MMMM YYYY.
+icon: palette
 ---
 
-# 🎨 Media Kit
+# Media Kit
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/UDDRMediaKit) **| Playbook | Assistant**

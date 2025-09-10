@@ -1,4 +1,8 @@
-# 🖖 Join us
+---
+icon: hand-spock
+---
+
+# Get Involved
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/UDDRJoinUs) **| Playbook | Assistant**

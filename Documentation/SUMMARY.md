@@ -6,17 +6,14 @@
 
 ## About
 
-* [🌟 Introduction](<README (1).md>)
+* [Introduction](<README (1).md>)
 * [🔀 Theory of Change](about/theory-of-change.md)
-* [📊 Business Plan](about/business-plan.md)
-* [📈 Implementation](about/implementation.md)
-* [🎨 Media Kit](about/media-kit.md)
-* [🗃️ Terminology](about/terminology.md)
-* [❓ Frequently Asked Questions](about/frequently-asked-questions.md)
-* [🖖 Join us](about/join-us.md)
-* [💰 Support Us](about/support-us.md)
-* [🏆 Awards](about/awards.md)
-* [🗄️ Media Archive](about/media-archive.md)
+* [Get Involved](about/get-involved.md)
+* [Support Us](about/support-us.md)
+* [Awards](about/awards.md)
+* [Media Archive](about/media-archive.md)
+* [Media Kit](about/media-kit.md)
+* [Frequently Asked Questions](about/frequently-asked-questions.md)
 
 ## Research
 
