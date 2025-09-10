@@ -1,12 +1,12 @@
-# 🚧 DRIA Global Registry
+---
+icon: map-location-dot
+---
+
+# DRIA Global Registry
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
 {% endhint %}
-
-
-
-
 
 {% hint style="warning" %}
 **NOTICE**
@@ -14,8 +14,6 @@
 This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
-
-
 
 ## About
 
@@ -26,7 +24,7 @@ A public global registry of Digital Rights impact from technology.
 
 #### **Project Description**
 
-The correct observance of the adoption and observance of the UDDR will require public and accessible measurement metrics. Comparable to the [Human Rights Impact Assessment](https://opencollective.com/redirect?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHuman\_Rights\_Impact\_Assessment) methodologies, the [Digital Rights SDK](https://opencollective.com/digital-rights-sdk) aims to provide with Digital Rights Impact Assessment stored on a Global Registry.\
+The correct observance of the adoption and observance of the UDDR will require public and accessible measurement metrics. Comparable to the [Human Rights Impact Assessment](https://opencollective.com/redirect?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHuman_Rights_Impact_Assessment) methodologies, the [Digital Rights SDK](https://opencollective.com/digital-rights-sdk) aims to provide with Digital Rights Impact Assessment stored on a Global Registry.\
 \
 
 
