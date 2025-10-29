@@ -1,4 +1,5 @@
 ---
+description: ⚡Brewing something new. Thanks for hanging in there!
 icon: person-digging
 cover: .gitbook/assets/Work in Progress.png
 coverY: 0
