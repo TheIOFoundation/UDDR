@@ -1,3 +1,7 @@
+---
+noIndex: true
+---
+
 # 🚧 Global
 
 {% hint style="info" %}

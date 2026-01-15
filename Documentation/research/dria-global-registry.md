@@ -1,4 +1,5 @@
 ---
+noIndex: true
 icon: map-location-dot
 ---
 
@@ -19,14 +20,12 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 A public global registry of Digital Rights impact from technology.
 
-[\
-](https://opencollective.com/uddr/projects/dria-global-registry#category-ABOUT)
+[<br>](https://opencollective.com/uddr/projects/dria-global-registry#category-ABOUT)
 
 #### **Project Description**
 
 The correct observance of the adoption and observance of the UDDR will require public and accessible measurement metrics. Comparable to the [Human Rights Impact Assessment](https://opencollective.com/redirect?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHuman_Rights_Impact_Assessment) methodologies, the [Digital Rights SDK](https://opencollective.com/digital-rights-sdk) aims to provide with Digital Rights Impact Assessment stored on a Global Registry.\
-\
-
+<br>
 
 #### **Summary of Activities**
 

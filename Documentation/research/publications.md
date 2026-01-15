@@ -1,3 +1,7 @@
+---
+noIndex: true
+---
+
 # 🚧 Publications
 
 {% hint style="info" %}

@@ -1,3 +1,7 @@
+---
+noIndex: true
+---
+
 # 🚧 Governance
 
 {% hint style="info" %}

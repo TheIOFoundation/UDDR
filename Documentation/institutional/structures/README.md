@@ -1,3 +1,7 @@
+---
+noIndex: true
+---
+
 # 🚧 Structures
 
 {% hint style="info" %}

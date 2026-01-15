@@ -1,4 +1,5 @@
 ---
+noIndex: true
 icon: square-t
 ---
 
@@ -19,8 +20,7 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 Crafting the Technical Document of the UDDR.
 
-[\
-](https://opencollective.com/uddr/projects/technical-document-t#category-ABOUT)
+[<br>](https://opencollective.com/uddr/projects/technical-document-t#category-ABOUT)
 
 
 
@@ -32,8 +32,7 @@ As part of the [Universal Declaration of Digital Rights](https://opencollective.
 #### **Next**
 
 The Technical Document (T) will be the reference template to generate the baseline implementation of the [Digital Rights SDK](https://opencollective.com/digital-rights-sdk) of the UDDR. \
-\
-
+<br>
 
 #### **Summary of Activities**
 

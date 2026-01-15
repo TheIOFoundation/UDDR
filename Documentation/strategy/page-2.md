@@ -1,3 +1,7 @@
+---
+noIndex: true
+---
+
 # 🚧 Education
 
 {% hint style="info" %}

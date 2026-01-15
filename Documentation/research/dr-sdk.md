@@ -1,4 +1,5 @@
 ---
+noIndex: true
 icon: gear-complex-code
 ---
 
@@ -19,8 +20,7 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 Building the implementation of the Technical Document (T).
 
-[\
-](https://opencollective.com/uddr/projects/digital-rights-sdk#category-ABOUT)
+[<br>](https://opencollective.com/uddr/projects/digital-rights-sdk#category-ABOUT)
 
 
 
@@ -32,8 +32,7 @@ As part of the [Universal Declaration of Digital Rights](https://opencollective.
 #### **Next**
 
 The adoption of the DR SDK will enable the automated evaluation and reporting of compliance by software into the [Digital Rights Impact Assessment Global Registry](https://opencollective.com/dria-global-registry). \
-\
-
+<br>
 
 #### **Summary of Activities**
 

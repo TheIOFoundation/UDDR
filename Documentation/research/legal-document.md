@@ -1,4 +1,5 @@
 ---
+noIndex: true
 icon: square-l
 ---
 
@@ -19,22 +20,19 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 Crafting the Legal Document of the UDDR.
 
-[\
-](https://opencollective.com/uddr/projects/legal-document-l#category-ABOUT)
+[<br>](https://opencollective.com/uddr/projects/legal-document-l#category-ABOUT)
 
 
 
 #### **Project Description**
 
 As part of the [Universal Declaration of Digital Rights](https://opencollective.com/uddr), the Legal Document (L) provides a legal, policy-based definition of the objectives to be accomplished and the different list of Digital Harms to be avoided and Digital Rights to be observed.\
-\
-
+<br>
 
 #### **Next**
 
 The Legal Document (L) will be the reference template to generate the [Technical Document (T)](https://opencollective.com/technical-document-t) of the UDDR.\
-\
-
+<br>
 
 #### **Summary of Activities**
 

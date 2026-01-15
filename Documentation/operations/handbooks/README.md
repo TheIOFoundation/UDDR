@@ -1,3 +1,7 @@
+---
+noIndex: true
+---
+
 # 🚧 Handbooks
 
 {% hint style="info" %}

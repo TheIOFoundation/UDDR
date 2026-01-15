@@ -1,5 +1,6 @@
 ---
 description: Version 1.0 | This Media Kit was approved on DD MMMM YYYY.
+noIndex: true
 icon: palette
 ---
 

@@ -1,3 +1,7 @@
+---
+noIndex: true
+---
+
 # 🚧 Migration
 
 {% hint style="info" %}

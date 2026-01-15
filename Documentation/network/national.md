@@ -1,3 +1,7 @@
+---
+noIndex: true
+---
+
 # 🚧 National
 
 {% hint style="info" %}
